@@ -1,66 +1,94 @@
-<h1 align="center">¡Hola! Soy Sofia LC 👩‍💻</h1>
-<h3 align="center">Científica de Datos | Especialista en IA para negocios | Autora | Ingeniera Textil con enfoque en innovación y datos</h3>
+<h1 align="center">¡Hola! Soy Sofía López Castellanos 👩‍💻</h1>
+<h3 align="center">Data Scientist | AI for Business Transformation | NLP & GenAI Specialist | Author | Textile Engineer</h3>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy una profesional con experiencia interdisciplinaria en ingeniería, análisis de datos e inteligencia artificial. Combino la comprensión de procesos industriales con habilidades analíticas para diseñar soluciones que optimizan procesos, predicen resultados y mejoran la toma de decisiones empresariales. Mis proyectos han generado impacto en sectores como el farmacéutico, educativo y salud.
+I'm a Data Scientist with more than four years of experience developing and deploying Machine Learning, GenAI, and NLP models to solve real-world business problems. My interdisciplinary background combines engineering, analytics, and artificial intelligence to design impactful, scalable, and strategic data solutions.
 
-Trabajo con modelos predictivos, visualización de datos, automatización de flujos y despliegue de modelos en APIs.
+I've led initiatives that reduced operational defects by 50%, forecasted pharmaceutical sales, predicted patient recovery times, and automated job posting creation using AI—all contributing to data-driven decision-making across industries such as healthcare, education, manufacturing, and pharma.
 
 ---
 
-### 🔧 Tecnologías y herramientas
+### 🔧 Tech Stack
 
-#### Lenguajes & Ciencia de Datos
+#### 🧠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0278D4?style=for-the-badge&logo=sas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### Machine Learning & NLP
+#### 🤖 GenAI & NLP
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![Flair](https://img.shields.io/badge/Flair-007ACC?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-blue?style=for-the-badge)
+
+#### 📊 Machine Learning & Deep Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6E00?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-3B7FC4?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-9C27B0?style=for-the-badge)
 
-#### Visualización
+#### 📈 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-41B4B3?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Datawrapper](https://img.shields.io/badge/Datawrapper-005F9E?style=for-the-badge)
 
-#### Gestión y Metodologías
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-004680?style=for-the-badge)
-
-#### Almacenamiento y APIs
-![Azure](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Looker](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![APIs](https://img.shields.io/badge/Model%20Deployment%20via%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 📌 Proyectos destacados
-
-- 🔍 **Data Analysis for Predicting Diabetes**  
-Modelado con Scikit-learn usando datos sintéticos. Clasificación y validación cruzada.
-
-- 🏥 **Post-Surgical Recovery | Bellavista**  
-Análisis estadístico y regresión para optimización de tiempos clínicos.
-
-- 💊 **Pharmaceutical Sales | Prodpharm**  
-Modelo predictivo para segmentación de clientes y planificación de ventas.
-
-- 📄 **Generador de Avisos de Empleo con IA**  
-Modelo de ML para predecir tasas de aplicación basado en texto y metadatos. Implementado vía API.
+#### ☁️ Cloud, MLOps & Databases
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🌐 Conecta conmigo
+### 📌 Notable Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia_López_Castellanos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selc/)
+- 🔍 **Type 2 Diabetes Risk Prediction**  
+Built predictive models (Random Forest, DNNs) with AUC > 0.88 to assess diabetes risk. Flask + FastAPI API deployment.
+
+- 🏥 **Post-Surgical Recovery Forecast (Bellavista)**  
+Regression models and Power BI dashboards to optimize patient recovery time estimates.
+
+- 💊 **Pharmaceutical Sales Forecasting (Prodpharm)**  
+Forecasted sales with ARIMA and Prophet, customer segmentation with K-Means for targeted marketing.
+
+- 📄 **AI-Powered Job Ad Generator**  
+ML pipeline for job ad creation and application rate prediction using TF-IDF, XGBoost, SHAP, and Azure.
+
+---
+
+### 📚 Education & Certifications
+
+- Master's in AI for Business Transformation – Inesdi (Spain)  
+- Master's in Business Management – UNIR México  
+- Engineer in Textile Engineering – IPN México  
+- Data & Business Analytics – MIU City University Miami  
+- Data Science Specialization – Alura Latam + Oracle ONE  
+- Certified in: Microsoft Azure AI, Scrum Master PSM I, JavaScript, FCE-Cambridge
+
+---
+
+### 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia_López_Castellanos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selc/)  
 [![GitHub](https://img.shields.io/badge/GitHub-SoperCast-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoperCast)
 
 ---
 
-> _“La tecnología es útil cuando transforma. Me enfoco en construir soluciones con propósito, fusionando ingeniería, datos y estrategia.”_
-
+> _“Technology is valuable when it transforms. I focus on designing purpose-driven AI solutions that merge engineering, data, and strategic insight.”_
