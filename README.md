@@ -80,7 +80,7 @@ ML pipeline for job ad creation and application rate prediction using TF-IDF, XG
 - Engineer in Textile Engineering – IPN México  
 - Data & Business Analytics – MIU City University Miami  
 - Data Science Specialization – Alura Latam + Oracle ONE  
-- Certified in: Microsoft Azure AI, Scrum Master PSM I, JavaScript, FCE-Cambridge
+- Certified in: Microsoft Azure AIFundamentals, Scrum Master PSM I,  FCE-Cambridge
 
 ---
 
